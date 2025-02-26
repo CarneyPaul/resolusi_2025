@@ -6,3 +6,4 @@ Resolusi 2025
 -membuat sistem ia dalam e-leanring bahasa python 
 -membuat portofolio 
 -membuat forum diskusi dalam team
+-membuat program dalam bahasa crud
