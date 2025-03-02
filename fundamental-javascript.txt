@@ -2,6 +2,7 @@ Dasar javasript
 *fundamental
 *es6
 *Framework Javascript
+*Struktur Data
 php
 *Framework php
 laravel 10
