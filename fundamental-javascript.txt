@@ -3,6 +3,7 @@ Dasar javasript
 *es6
 *Framework Javascript
   ^View
+  ^React
 *Struktur Data
 php
 *Framework php
